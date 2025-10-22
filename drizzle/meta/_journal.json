@@ -8,6 +8,13 @@
       "when": 1761116219043,
       "tag": "0000_cooing_havok",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1761117306813,
+      "tag": "0001_first_snowbird",
+      "breakpoints": true
     }
   ]
 }
